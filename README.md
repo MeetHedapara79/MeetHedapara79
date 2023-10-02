@@ -1,8 +1,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meethedapara79&label=Profile%20views&color=0e75b6&style=flat" alt="meethedapara79" /> </p>
-<img align="center" alt="coding" width="1200" height="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
+<img align="center" alt="coding" width="1200" height="300" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 <h1 align="center">Hi 👋, I'm Meet Hedapara</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
-<img align="right" alt="coding" width="450" src="https://miro.medium.com/v2/resize:fit:1400/0*oyarAFEx_X9GNcWT.gif">
+<img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0">
 
 
 - 🔭 I’m currently working on **Event Management System**
